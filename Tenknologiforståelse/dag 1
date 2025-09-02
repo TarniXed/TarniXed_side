@@ -1,0 +1,8 @@
+print("Hello World") # skriver ut "hello world" til konsoll
+print("Hallo", "verden", "!") # Skriver ut "hallo verden!" til konsoll
+print("Hallo", "verden", "!", sep="+") # skriver ut "hallo+verden+!" til konsoll
+print("Hallo", "verden", "! ", end=" ") # skriver ut "hallo verden !" til konsoll
+print("Hallo", "igjen", "! ", end=" Slutt") # skriver ut "hallo igjen ! slutt"
+print("01", "01", "2022", sep=":") # skriver ut "01:01:2022" til konsoll
+print("per", "spellmann", sep=".", end="@") # skriver ut "per.spellmann@"
+print("eventyr.no") # forsetter på den øvre og skriver "eventyr.no"

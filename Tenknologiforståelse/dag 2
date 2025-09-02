@@ -1,0 +1,2 @@
+navn = input("tast inn navnet ditt: ")
+navn2 = input("tast inn navnet ditt: ")
